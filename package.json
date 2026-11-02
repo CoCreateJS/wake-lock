@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoCreateJS/CoCreate-wake-lock.git"
+    "url": "git+https://github.com/CoCreateJS/wake-lock.git"
   },
   "author": "CoCreate LLC",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/CoCreateJS/CoCreate-wake-lock/issues"
+    "url": "https://github.com/CoCreateJS/wake-lock/issues"
   },
   "homepage": "https://CoCreateJS.com/docs/wake-lock",
   "main": "./src/index.js",
