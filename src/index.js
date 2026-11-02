@@ -186,24 +186,21 @@ export default { isSupported, request, release };
 /**
  *
  * @name actions
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
 /**
  *
  * @name wake-lock
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
 /**
  *
  * @name wake-lock-type
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
